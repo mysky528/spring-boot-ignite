@@ -38,7 +38,7 @@
         <jacoco.reporting.outputDirectory>${project.basedir}/../target/reports/jacoco</jacoco.reporting.outputDirectory>
         <jacoco.inclNoLocationClasses>true</jacoco.inclNoLocationClasses>
         <ehcache>3.3.1</ehcache>
-        <ignite.version>2.1.0</ignite.version>
+        <ignite.version>2.6.0</ignite.version>
         <romeh.mail.client.version>2.0.4-SNAPSHOT</romeh.mail.client.version>
         <spring-aop.version>4.3.10.RELEASE</spring-aop.version>
 
